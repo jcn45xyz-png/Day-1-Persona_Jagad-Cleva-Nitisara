@@ -20,3 +20,9 @@ seh-keygen -t ed 25519 -c (kode algoritma rumus untuk keamanan)
 untuk mengecek versi dari vs code itu sendiri, ketik "code --version".
 
 Untuk codingan sekarang, di level perusahaan cyber sec sekarang aja justru sudah pakai AI. Ai yang disinkronisasikan dengan vs code misal antigravity, chat gpt, claude, dll.
+
+Dari workshop ini, kita juga perlu bisa membeda,an beberapa hal ini:
+VS Code: tempat menulis dan mengedit kode.
+Git: sistem untuk mencatat riwayat perubahan kode.k
+GitHub: platform online untuk menyimpan repository Git dan berkolaborasi.
+
