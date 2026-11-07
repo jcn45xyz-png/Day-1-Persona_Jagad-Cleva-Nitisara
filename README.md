@@ -9,7 +9,7 @@ seUntukbagai media manajemen versi (version control) dan pusat kolaborasi proyek
 
 Informasi singkat mengenai kegiatan workshop yang didokumentasikan.
 VS code di sini dapat disinkronisasikan dengan github supaya bisa melihat apa saja perubahan2 yang dilakukan di dalam vs code tersebut.
-git add -all (untuk nambahin file apa aja yg masuk ek staging)
+git add -all (untuk nambahin file apa aja yg masuk ke staging)
 git add -A (fungsinya juga mirip, hanya disingkat aja)
 
 git add . (nambahin file di repository)
@@ -20,4 +20,3 @@ seh-keygen -t ed 25519 -c (kode algoritma rumus untuk keamanan)
 untuk mengecek versi dari vs code itu sendiri, ketik "code --version".
 
 Untuk codingan sekarang, di level perusahaan cyber sec sekarang aja justru sudah pakai AI. Ai yang disinkronisasikan dengan vs code misal antigravity, chat gpt, claude, dll.
-
