@@ -18,3 +18,6 @@ git add * (nambahin file yg udh di ubahin di git.
 misalnya mau melakukan perubahan
 seh-keygen -t ed 25519 -c (kode algoritma rumus untuk keamanan)
 untuk mengecek versi dari vs code itu sendiri, ketik "code --version".
+
+Untuk codingan sekarang, di level perusahaan cyber sec sekarang aja justru sudah pakai AI. Ai yang disinkronisasikan dengan vs code misal antigravity, chat gpt, claude, dll.
+
