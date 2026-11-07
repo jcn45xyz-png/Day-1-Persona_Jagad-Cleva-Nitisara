@@ -26,3 +26,5 @@ VS Code: tempat menulis dan mengedit kode.
 Git: sistem untuk mencatat riwayat perubahan kode.k
 GitHub: platform online untuk menyimpan repository Git dan berkolaborasi.
 
+Recap day 1 workshop.
+Menurut saya, bener2 penting sih mengikuti acara workshop kali ini karena kita belajar banyak mengenai pengoprasian Github. Apalagi kita sbg mahasiswa tik, perlu mempelajari ini untuk dapat mengelola dan menubah komfigurasi berupa kodingam melalui kolaborasi. Pesan yg bs saya ambil dr presenter/penateri tadi bahwa, belajar itu perlu progress, jadi kt dapat mempelajari hal ini secara bertahap. Mulai dari pembuatan akun github, menginstall git, extension AI (Antigravity misalnya) yg tersinkronasindengan vs code, dll. 
