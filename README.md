@@ -1,4 +1,4 @@
-# tugas-tik_jagad_2607431048_7nov2008
+# Day-1-Persona_Jagad Cleva Nitisara
 Tugas TIK Mengajar Day 1
 
 Deskripsi singkat mengenai repository.
