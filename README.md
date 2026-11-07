@@ -8,3 +8,13 @@ Tujuan atau kegunaan repository.
 seUntukbagai media manajemen versi (version control) dan pusat kolaborasi proyek. Dengan adanya repository, setiap pembaruan atau perbaikan kode dapat dipantau riwayatnya (commit history), mencegah terjadinya masalah antar-file saat bekerja dalam tim, serta menjadi sarana dokumentasi resmi sekaligus portofolio digital yang aman dari risiko kehilangan data lokal.
 
 Informasi singkat mengenai kegiatan workshop yang didokumentasikan.
+VS code di sini dapat disinkronisasikan dengan github supaya bisa melihat apa saja perubahan2 yang dilakukan di dalam vs code tersebut.
+git add -all (untuk nambahin file apa aja yg masuk ek staging)
+git add -A (fungsinya juga mirip, hanya disingkat aja)
+
+git add . (nambahin file di repository)
+git add * (nambahin file yg udh di ubahin di git.
+
+misalnya mau melakukan perubahan
+seh-keygen -t ed 25519 -c (kode algoritma rumus untuk keamanan)
+untuk mengecek versi dari vs code itu sendiri, ketik "code --version".
